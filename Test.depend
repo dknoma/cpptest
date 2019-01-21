@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547717114 source:c:\users\djkno\desktop\dropbox\c++\test\test.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
